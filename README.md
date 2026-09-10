@@ -31,7 +31,6 @@
   </tr>
 </table>
 
-> ⚡ *"I learn by building things from the inside out."*
 
 
 ## 🛠️ Tech Stack
@@ -105,13 +104,6 @@
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Yuraj023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Yuraj023&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
-</div>
-
-
 ## 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
@@ -122,16 +114,15 @@
   </picture>
 </div>
 
-✨ *Auto-generated every 12 hours via GitHub Actions* ✨
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuraj023)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurajchauhan/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_Yurajchauhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhanyuraj50@gmail.com)
 
 </div>
 
@@ -139,10 +130,4 @@
 
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=churchill" alt="Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  ⭐️ <i>From <a href="https://github.com/Yuraj023">Yuraj023</a> — Star my repos if you find them useful!</i>
 </div>
